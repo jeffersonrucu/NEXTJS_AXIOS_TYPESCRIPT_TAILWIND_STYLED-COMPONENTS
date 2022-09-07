@@ -4,4 +4,9 @@ const nextConfig = {
   swcMinify: true,
 }
 
-module.exports = nextConfig
+module.exports = {
+  nextConfig,
+  env: {
+    API_BASEURL: 'https://jsonplaceholder.typicode.com',
+  },
+}
