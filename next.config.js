@@ -7,6 +7,6 @@ const nextConfig = {
 module.exports = {
   nextConfig,
   env: {
-    API_BASEURL: 'https://jsonplaceholder.typicode.com',
+    API_BASEURL: 'http://localhost:10013',
   },
 }
