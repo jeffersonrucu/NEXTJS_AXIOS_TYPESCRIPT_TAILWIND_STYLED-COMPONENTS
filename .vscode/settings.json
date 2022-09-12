@@ -17,6 +17,6 @@
     "postcss.config.js": true,
     "next-env.d.ts": true,
     "next.config.js": false,
-    "public": true
+    "public": false
   }
 }
